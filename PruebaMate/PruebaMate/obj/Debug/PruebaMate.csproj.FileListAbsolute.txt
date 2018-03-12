@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\bin\Debug\PruebaMate.exe.config
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\bin\Debug\PruebaMate.exe
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\bin\Debug\PruebaMate.pdb
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\obj\Debug\PruebaMate.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\obj\Debug\PruebaMate.Form1.resources
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\obj\Debug\PruebaMate.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\obj\Debug\PruebaMate.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\obj\Debug\PruebaMate.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\obj\Debug\PruebaMate.exe
+C:\Users\danie\OneDrive\Documents\Proyectos Visual Studio\PruebaMate\PruebaMate\obj\Debug\PruebaMate.pdb
